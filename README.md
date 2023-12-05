@@ -1,8 +1,8 @@
 # Laboratórios de Informática I
-Recriação do jogo BlockDude em Haskell com todos os movimentos e interface gráfica, bem como um bot para o resolver sozinho.
+Recriação do jogo BlockDude em Haskell com todos os movimentos e interface gráfica, bem como um bot para o resolver sozinho e um conjunto de testes.
 
 ## Testes
-O projecto contém testes unitários escritos usando a biblioteca [HUnit](https://hackage.haskell.org/package/HUnit). Os testes podem ser executados da seguinte forma.
+Os testes podem ser executados da seguinte forma.
 
 ```bash
 $ ghci -i="src" -i="tests" tests/Tests.hs
